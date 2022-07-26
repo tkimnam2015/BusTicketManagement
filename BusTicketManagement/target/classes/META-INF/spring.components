@@ -1,0 +1,2 @@
+com.ntkn.configs.WebAppContextConfig=org.springframework.stereotype.Component
+com.ntkn.controllers.IndexController=org.springframework.stereotype.Component
