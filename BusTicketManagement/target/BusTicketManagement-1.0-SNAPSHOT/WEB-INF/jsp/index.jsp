@@ -12,14 +12,14 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Truong Nam - Dai ly ve xe</title>
-        <link rel="shortcut icon" href="./assets/img/favicon.png">
+        <link rel="shortcut icon" href="./assets/assetHome/img/favicon.png">
         <link rel="stylesheet"  type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">  
-        <link rel="stylesheet" href="./assets/fonts/fontawesome-free-6.1.1-web/css/all.min.css">
-        <link rel="stylesheet" href="./assets/css/grid.css">
-        <link rel="stylesheet" href="./assets/css/base.css">
-        <link rel="stylesheet" href="./assets/css/style.css">
-        <link rel="stylesheet" href="./assets/css/responsive.css">
+        <link rel="stylesheet" href="./assets/assetHome/fonts/fontawesome-free-6.1.1-web/css/all.min.css">
+        <link rel="stylesheet" href="./assets/assetHome/css/grid.css">
+        <link rel="stylesheet" href="./assets/assetHome/css/base.css">
+        <link rel="stylesheet" href="./assets/assetHome/css/style.css">
+        <link rel="stylesheet" href="./assets/assetHome/css/responsive.css">
     </head>
     <body>
         <div id="app">
@@ -64,10 +64,10 @@
                         <div class="header-container">
                             <div class="logo">
                                 <a href="index.html" class="logo__link logo-one">
-                                    <img src="./assets/img/logo/logo.png" alt="logo">
+                                    <img src="./assets/assetHome/img/logo/logo.png" alt="logo">
                                 </a>
                                 <a href="index.html" class="logo__link logo-two">
-                                    <img src="./assets/img/logo/logo.png" alt="logo">
+                                    <img src="./assets/assetHome/img/logo/logo.png" alt="logo">
                                 </a>
                             </div>
                             <div class="navbar-wrap">
@@ -105,7 +105,7 @@
                                         <div class="cart-wrap">                               
                                             <ul class="mini-cart">
                                                 <li class="mini-cart-item">
-                                                    <a href="#"><img src="./assets/img/product/cart_p01.jpg" alt="img"></a>
+                                                    <a href="#"><img src="./assets/assetHome/img/product/cart_p01.jpg" alt="img"></a>
                                                     <div class="cart-item-content">
                                                         <h4 class="cart-item__heading"><a href="#">Ha Noi - TP.HCM</a></h4>
                                                         <div class="cart-item-price">
@@ -117,7 +117,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="mini-cart-item"> 
-                                                    <a href="#"><img src="./assets/img/product/cart_p02.jpg" alt="img"></a>
+                                                    <a href="#"><img src="./assets/assets/assetHome/img/product/cart_p02.jpg" alt="img"></a>
                                                     <div class="cart-item-content">
                                                         <h4 class="cart-item__heading"><a href="#">TP.HCM - Ha Noi</a></h4>
                                                         <div class="cart-item-price">
@@ -129,7 +129,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="mini-cart-item"> 
-                                                    <a href="#"><img src="./assets/img/product/cart_p02.jpg" alt="img"></a>
+                                                    <a href="#"><img src="./assets/assetHome/img/product/cart_p02.jpg" alt="img"></a>
                                                     <div class="cart-item-content">
                                                         <h4 class="cart-item__heading"><a href="#">Da Nang - TP.HCM</a></h4>
                                                         <div class="cart-item-price">
@@ -192,7 +192,7 @@
                                 <i class="fa-solid fa-xmark"></i>
                             </div>
                             <div class="side-bar-logo">
-                                <a href="index.html"><img src="./assets/img/logo/logo.png" alt=""></a>
+                                <a href="index.html"><img src="./assets/assetHome/img/logo/logo.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -203,13 +203,13 @@
             <!-- Begin Main -->
             <main class="main">
                 <!-- slider-area -->
-                <div class="main-slider" style="background-image: url(./assets/img/slider/banner_bg02.jpg);">
+                <div class="main-slider" style="background-image: url(./assets/assetHome/img/slider/banner_bg02.jpg);">
                     <!-- banner-area-->
                     <div class="grid ">
                         <div class="row">
                             <div class="col l-12">
                                 <div class="main-content-show">
-                                    <!-- <img src="./assets/img/slider/slider_content_icon.png" alt="img"> -->
+                                    <!-- <img src="./assets/assetHome/img/slider/slider_content_icon.png" alt="img"> -->
                                     <div class="fact-area-title">
                                         CHAT LUONG 5 SAO
                                         <span class="left"></span>
@@ -326,7 +326,7 @@
                             <div class="col l-3 m-6 c-12 custom-c-12">
                                 <div class="features-item">
                                     <div class="features-icon mb-25">
-                                        <img src="./assets/img/icon/h3_features_icon01.png" alt="icon">
+                                        <img src="./assets/assetHome/img/icon/h3_features_icon01.png" alt="icon">
                                     </div>
                                     <div class="features-content">
                                         <h5>Hang 1</h5>
@@ -337,7 +337,7 @@
                             <div class="col l-3 m-6 c-12 custom-c-12">
                                 <div class="features-item">
                                     <div class="features-icon mb-25">
-                                        <img src="./assets/img/icon/h3_features_icon02.png" alt="icon">
+                                        <img src="./assets/assetHome/img/icon/h3_features_icon02.png" alt="icon">
                                     </div>
                                     <div class="features-content">
                                         <h5>Top 5</h5>
@@ -348,7 +348,7 @@
                             <div class="col l-3 m-6 c-12 custom-c-12">
                                 <div class="features-item">
                                     <div class="features-icon mb-25">
-                                        <img src="./assets/img/icon/h3_features_icon03.png" alt="icon">
+                                        <img src="./assets/assetHome/img/icon/h3_features_icon03.png" alt="icon">
                                     </div>
                                     <div class="features-content">
                                         <h5>An toan</h5>
@@ -359,7 +359,7 @@
                             <div class="col l-3 m-6 c-12 custom-c-12">
                                 <div class="features-item">
                                     <div class="features-icon mb-25">
-                                        <img src="./assets/img/icon/h3_features_icon04.png" alt="icon">
+                                        <img src="./assets/assetHome/img/icon/h3_features_icon04.png" alt="icon">
                                     </div>
                                     <div class="features-content">
                                         <h5>Bao ve moi truong</h5>
@@ -375,7 +375,7 @@
 
                 <!-- latest-cars-area-end -->
                 <!-- about-area -->
-                <div style="background-image: url('./assets/img/bg/about_bg.jpg');" class="about-area ">
+                <div style="background-image: url('./assets/assetHome/img/bg/about_bg.jpg');" class="about-area ">
                     <div class="about-container pt-120 pb-120">
                         <div class="grid wide">
                             <div class="row large-gutter mr-3">
@@ -384,12 +384,12 @@
                                         <!-- <h2>49<span>+</span></h2> -->
                                     </div>
                                     <div class="about-img">
-                                        <img src="./assets/img/images/about_img01.jpg" alt="img">
+                                        <img src="./assets/assetHome/img/images/about_img01.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="col l-3 m-6 c-12  custom-c-12">
                                     <div class="about-img">
-                                        <img src="./assets/img/images/about_img01.jpg" alt="img">
+                                        <img src="./assets/assetHome/img/images/about_img01.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="col l-6 m-12 c-12  custom-c-12">
@@ -399,7 +399,7 @@
                                             <h2>Truong Nam - Dai ly ve xe</h2>
                                         </div>
                                         <div class="about-desc mb-40">
-                                            <img src="./assets/img/images/m.png" alt="img" class="about-desc__img">
+                                            <img src="./assets/assetHome/img/images/m.png" alt="img" class="about-desc__img">
                                             <p>anh dung, thinh vuong, phat trien lau dai. Xay dung nen tang cong nghe hien dai, ket hop voi nen dich vu van tai thinh hanh. Vuon tam khu vuc, khang dinh vi the Viet Nam
                                         </div>
                                         <div class="about-list mb-40">
@@ -439,7 +439,7 @@
                                         <div class="overlay-title">CONG NGHE & DICH VU</div>
                                         <span>CONG NGHE & DICH VU</span>
                                         <h2>TIEU CHUAN XE CHINH HANG DOC QUYEN</h2>
-                                        <img src="./assets/img/images/title_line.png" alt="" class="img-line">
+                                        <img src="./assets/assetHome/img/images/title_line.png" alt="" class="img-line">
                                     </div>
 
                                 </div>
@@ -450,7 +450,7 @@
                                 <div class="col l-3 m-6 c-12 custom-c-12">
                                     <div class="exclusive-car-item mr--30 mb-35 text-right ">
                                         <div class="exclusive-car__img-right ">
-                                            <img src="./assets/img/flaticon/car-parts.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/car-parts.png" alt="img">
                                         </div>
                                         <h5>DAN DONG CAU TRUOC (FWD) </h5>
                                         <p>
@@ -459,7 +459,7 @@
                                     </div>
                                     <div class="exclusive-car-item mr--30 text-right ">
                                         <div class="exclusive-car__img-right">
-                                            <img src="./assets/img/flaticon/piston.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/piston.png" alt="img">
                                         </div>
                                         <h5>CONG NGHE PISTON DAP</h5>
                                         <p>
@@ -469,13 +469,13 @@
                                 </div>
                                 <div class="col l-6 d-none">
                                     <div class="exclusive-car-featured__img">
-                                        <img src="./assets/img/images/exc_featured_img.png" alt="img">
+                                        <img src="./assets/assetHome/img/images/exc_featured_img.png" alt="img">
                                     </div>
                                 </div>
                                 <div class="col l-3 m-6 c-12 custom-c-12">
                                     <div class="exclusive-car-item ml--30 mb-35  ">
                                         <div class="exclusive-car__img ">
-                                            <img src="./assets/img/flaticon/fan.png " alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/fan.png " alt="img">
                                         </div>
                                         <h5>XE SIEU NHANH </h5>
                                         <p>
@@ -484,7 +484,7 @@
                                     </div>
                                     <div class="exclusive-car-item ml--30 ">
                                         <div class="exclusive-car__img">
-                                            <img src="./assets/img/flaticon/jerrycan.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/jerrycan.png" alt="img">
                                         </div>
                                         <h5>TIET KIEM NHIEN LIEU</h5>
                                         <p>
@@ -498,7 +498,7 @@
                 </div>          
                 <!-- exclusive car featured-end -->
                 <!-- fact-area -->
-                <div class="fact-area" style="background-image: url(./assets/img/bg/fact_bg.jpg);">
+                <div class="fact-area" style="background-image: url(./assets/assetHome/img/bg/fact_bg.jpg);">
                     <div class="fact-area-title-wrap">
                         <div class="fact-area-title">
                             DANH GIA DICH VU
@@ -512,7 +512,7 @@
                                 <div class="col l-3 m-6 c-12 custom-c-12">
                                     <div class="fact-item">
                                         <div class="fact-img">
-                                            <img src="./assets/img/flaticon/car.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/car.png" alt="img">
                                         </div>
                                         <div class="fact-content">
                                             <h3>
@@ -526,7 +526,7 @@
                                 <div class="col l-3 m-6 c-12 custom-c-12">
                                     <div class="fact-item">
                                         <div class="fact-img">
-                                            <img src="./assets/img/flaticon/settings car.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/settings car.png" alt="img">
                                         </div>
                                         <div class="fact-content">
                                             <h3>
@@ -542,7 +542,7 @@
                                 <div class="col l-3 m-6 c-12 custom-c-12">
                                     <div class="fact-item">
                                         <div class="fact-img">
-                                            <img src="./assets/img/flaticon/settings.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/settings.png" alt="img">
                                         </div>
                                         <div class="fact-content">
                                             <h3>
@@ -558,7 +558,7 @@
                                 <div class="col l-3 m-6 c-12 custom-c-12">
                                     <div class="fact-item">
                                         <div class="fact-img">
-                                            <img src="./assets/img/flaticon/rocket.png" alt="img">
+                                            <img src="./assets/assetHome/img/flaticon/rocket.png" alt="img">
                                         </div>
                                         <div class="fact-content">
                                             <h3>
@@ -587,7 +587,7 @@
                                         <div class="overlay-title">TIN TUC</div>
                                         <span>TIN TUC</span>
                                         <h2>THONG TIN PHO BIEN</h2>
-                                        <img src="./assets/img/images/title_line.png" alt="" class="img-line">
+                                        <img src="./assets/assetHome/img/images/title_line.png" alt="" class="img-line">
                                     </div>
                                 </div>
                             </div>
@@ -597,7 +597,7 @@
                                 <div class="blog-item mb-50-mb-tl">
                                     <div class="blog-item__img">
                                         <a href="#">
-                                            <img src="./assets/img/blog/blog_post_thumb01.jpg" alt="img">
+                                            <img src="./assets/assetHome/img/blog/blog_post_thumb01.jpg" alt="img">
                                         </a>
                                     </div>
                                     <div class="blog-item-content">
@@ -627,7 +627,7 @@
                                 <div class="blog-item mb-50-mb-tl">
                                     <div class="blog-item__img">
                                         <a href="#">
-                                            <img src="./assets/img/blog/blog_post_thumb02.jpg" alt="img">
+                                            <img src="./assets/assetHome/img/blog/blog_post_thumb02.jpg" alt="img">
                                         </a>
                                     </div>
                                     <div class="blog-item-content">
@@ -657,7 +657,7 @@
                                 <div class="blog-item">
                                     <div class="blog-item__img">
                                         <a href="#">
-                                            <img src="./assets/img/blog/blog_post_thumb03.jpg" alt="img">
+                                            <img src="./assets/assetHome/img/blog/blog_post_thumb03.jpg" alt="img">
                                         </a>
                                     </div>
                                     <div class="blog-item-content">
@@ -698,7 +698,7 @@
                                 <div class="col l-4 m-6 c-12">
                                     <div class="footer-logo">
                                         <a href="#" class="btn">
-                                            <img src="./assets/img/logo/w_logo.png" alt="logo">
+                                            <img src="./assets/assetHome/img/logo/w_logo.png" alt="logo">
                                         </a>
                                     </div>
                                 </div>
@@ -707,35 +707,35 @@
                                         <div class="footer-slider-item">
                                             <div class="slider-img">
                                                 <a href="#">
-                                                    <img src="./assets/img/brand/footer_brand01.png" alt="img">
+                                                    <img src="./assets/assetHome/img/brand/footer_brand01.png" alt="img">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="footer-slider-item">
                                             <div class="slider-img">
                                                 <a href="#">
-                                                    <img src="./assets/img/brand/footer_brand02.png" alt="img">
+                                                    <img src="./assets/assetHome/img/brand/footer_brand02.png" alt="img">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="footer-slider-item">
                                             <div class="slider-img">
                                                 <a href="#">
-                                                    <img src="./assets/img/brand/footer_brand03.png" alt="img">
+                                                    <img src="./assets/assetHome/img/brand/footer_brand03.png" alt="img">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="footer-slider-item">
                                             <div class="slider-img">
                                                 <a href="#">
-                                                    <img src="./assets/img/brand/footer_brand04.png" alt="img">
+                                                    <img src="./assets/assetHome/img/brand/footer_brand04.png" alt="img">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="footer-slider-item">
                                             <div class="slider-img">
                                                 <a href="#">
-                                                    <img src="./assets/img/brand/footer_brand02.png" alt="img">
+                                                    <img src="./assets/assetHome/img/brand/footer_brand02.png" alt="img">
                                                 </a>
                                             </div>
                                         </div>
@@ -745,7 +745,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="footer-main-wrap" style="background-image: url(./assets/img/bg/footer_bg.jpg);">
+                <div class="footer-main-wrap" style="background-image: url(./assets/assetHome/img/bg/footer_bg.jpg);">
                     <div class="footer-main">
                         <div class="grid wide">
                             <div class="row large-gutter mr-3">
@@ -828,7 +828,7 @@
                                                         <p>Ban co the thanh toan truc tuyen hoac qua the tin dung cac ngan hang pho bien hop phap tai Viet Nam
                                                     </div>
                                                     <div class="payment__img">
-                                                        <img src="./assets/img/images/payment_card.png" alt="img">
+                                                        <img src="./assets/assetHome/img/images/payment_card.png" alt="img">
                                                     </div>
                                                 </div>
                                             </div>
@@ -981,7 +981,7 @@
             });
         </script>
         <!--Validate  -->
-        <script src="./assets/js/validator.js"></script>
+        <script src="./assets/assetHome/js/validator.js"></script>
         <script>
             // login
             Validator({
@@ -1018,6 +1018,6 @@
             })
         </script>
         <!-- Main -->
-        <script src="./assets/js/main.js"></script>
+        <script src="./assets/assetHome/js/main.js"></script>
     </body>
 </html>

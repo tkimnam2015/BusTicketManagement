@@ -34,7 +34,7 @@ const init = {
       name: "Ha Noi - TP.HCM",
       desc: "Tren xe co 3 tai xe, luan phien thay doi",
       price: "1000000",
-      img: "./assets/img/images/t_released_cars_thumb01.jpg",
+      img: "./assets/assetHome/img/images/t_released_cars_thumb01.jpg",
       type: "new-car",
     },
     {
@@ -42,7 +42,7 @@ const init = {
       name: "Ha Noi - Hai Phong",
       desc: "Tren xe co 3 tai xe, luan phien thay doi",
       price: "300000",
-      img: "./assets/img/images/t_released_cars_thumb02.jpg",
+      img: "./assets/assetHome/img/images/t_released_cars_thumb02.jpg",
       type: "new-car",
     },
     {
@@ -50,7 +50,7 @@ const init = {
       name: "Da Nang - TP.HCM",
       desc: "Tren xe co 3 tai xe, luan phien thay doi",
       price: "700000",
-      img: "./assets/img/images/t_released_cars_thumb03.jpg",
+      img: "./assets/assetHome/img/images/t_released_cars_thumb03.jpg",
       type: "used-car",
     },
     {
@@ -58,7 +58,7 @@ const init = {
       name: "TP.HCM - Lang Son",
       desc: "Tren xe co 3 tai xe, luan phien thay doi",
       price: "500000",
-      img: "./assets/img/images/t_released_cars_thumb04.jpg",
+      img: "./assets/assetHome/img/images/t_released_cars_thumb04.jpg",
       type: "used-car",
     },
     {
@@ -66,7 +66,7 @@ const init = {
       name: "Son La - Bac Ninh",
       desc: "Tren xe co 3 tai xe, luan phien thay doi",
       price: "300000",
-      img: "./assets/img/images/t_released_cars_thumb05.jpg",
+      img: "./assets/assetHome/img/images/t_released_cars_thumb05.jpg",
       type: "new-car",
     },
     {
@@ -74,7 +74,7 @@ const init = {
       name: "TP.HCM - Long An",
       desc: "Tren xe co 3 tai xe, luan phien thay doi",
       price: "300000",
-      img: "./assets/img/images/t_released_cars_thumb06.jpg",
+      img: "./assets/assetHome/img/images/t_released_cars_thumb06.jpg",
       type: "used-car",
     },
   ],
